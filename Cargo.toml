@@ -1,0 +1,9 @@
+[package]
+name = "rust_study"
+version = "0.1.0"
+authors = ["billionai"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7"
+rand_chacha = "0.2"
